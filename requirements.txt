@@ -1,0 +1,4 @@
+flask==2.0.1
+mysql-connector-python==8.0.26
+wtforms==2.3.3
+flask-wtf==0.15.1 
